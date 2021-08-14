@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Haris Kordic
-I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second year of college at FIT (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! Check out some of my work down below :D .
+I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second year of college at FIT (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! Check out some of my work down below 😄 .
 
 Skills: C++ / REACT / JS / HTML / CSS/ Python/ Version control systems
 
@@ -7,7 +7,7 @@ Skills: C++ / REACT / JS / HTML / CSS/ Python/ Version control systems
 - 🌱 I’m currently learning C# and React.js 
 - 👯 I’m looking to collaborate on Open source projects and repositories 
 - 🤔 I’m looking for help with React and C# 
-- 💬 Ask me about Anything You Want :D  
+- 💬 Ask me about Anything You Want 😄 
 - 📫 How to reach me: kordicharis18@gmail.com 
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people 
 
