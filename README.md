@@ -12,7 +12,7 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=50px height=50px  alt="GIT">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width=50px height=50px  alt="Terminal">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=50px height=50px  alt="VS Code">
-<img src="https://external-preview.redd.it/h8oXzwFeDbFsadA8vO-8tGFp4sQ8EtxQ3fMMcYOF-J0.jpg?auto=webp&s=1ae2561df48632684589b71fd07c57e2ff7ae9e5" width=70px height=50px  alt="VS">
+<img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/Untitled-1.png" width=70px height=50px  alt="VS">
 
 
 - 🔭 I’m currently working on Becoming a FULL-STACK dev  
