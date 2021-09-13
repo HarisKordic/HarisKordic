@@ -4,7 +4,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg" width=50px height=50px>
-<img src="https://image.pngaaa.com/941/5376941-middle.png" width=50px height=50px>
+<img src="https://spng.pngfind.com/pngs/s/62-626208_python-logo-png-transparent-background-python-logo-png.png" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50px height=50px>
