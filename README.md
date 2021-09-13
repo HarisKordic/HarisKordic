@@ -3,16 +3,16 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 
 Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code /VS
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg" width=50px height=50px>
-<img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-x750.jpg" width=70px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width=50px height=50px>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=50px height=50px>
-<img src="https://external-preview.redd.it/h8oXzwFeDbFsadA8vO-8tGFp4sQ8EtxQ3fMMcYOF-J0.jpg?auto=webp&s=1ae2561df48632684589b71fd07c57e2ff7ae9e5" width=70px height=50px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg" width=50px height=50px alt="C++">
+<img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-x750.jpg" width=70px height=50px  alt="Python">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=50px height=50px  alt="HTML">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=50px height=50px  alt="CSS">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50px height=50px  alt="JavaScript">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px  alt="React">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=50px height=50px  alt="GIT">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width=50px height=50px  alt="Terminal">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=50px height=50px  alt="VS Code">
+<img src="https://external-preview.redd.it/h8oXzwFeDbFsadA8vO-8tGFp4sQ8EtxQ3fMMcYOF-J0.jpg?auto=webp&s=1ae2561df48632684589b71fd07c57e2ff7ae9e5" width=70px height=50px  alt="VS">
 
 
 - 🔭 I’m currently working on Becoming a FULL-STACK dev  
