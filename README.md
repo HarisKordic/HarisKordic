@@ -20,4 +20,4 @@ Skills: C++ / REACT / JS / HTML / CSS/ Python/ Version control systems
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarisKordic)  
 
-https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg">
