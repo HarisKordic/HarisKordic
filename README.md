@@ -20,7 +20,7 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 - 👯 I’m looking to collaborate on Open source projects and repositories.
 - 🤔 I’m looking for help with React and C#.
 - 💬 Ask me about Anything You Want 😄.
-- 📫 How to reach me: [My mail](<a href=\"mailto:kordicharis18@gmail.com\">MAIL_TO_TEST</a>).
+- 📫 How to reach me: [<a href=\"mailto:kordicharis18@gmail.com\">MAIL_TO_TEST</a>]().
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people 
 
 
