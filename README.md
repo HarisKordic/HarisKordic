@@ -2,6 +2,13 @@
 I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second year of college at [FIT](https://fit.ba/)  (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! Check out some of my work down below 😄 .
 
 Skills: C++ / REACT / JS / HTML / CSS/ Python/ Version control systems
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
 
 - 🔭 I’m currently working on Becoming a FULL-STACK dev  
 - 🌱 I’m currently learning C# and React.js 
@@ -21,3 +28,6 @@ Skills: C++ / REACT / JS / HTML / CSS/ Python/ Version control systems
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarisKordic)  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
+
