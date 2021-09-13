@@ -9,7 +9,7 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=50px height=50px  alt="CSS">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50px height=50px  alt="JavaScript">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px  alt="React">
-<img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/Untitled-2.png" width=80px height=60px  alt="GIT">
+<img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/Untitled-2.png" width=80px height=65px  alt="GIT">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width=50px height=50px  alt="Terminal">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=50px height=50px  alt="VS Code">
 <img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/Untitled-1.png" width=70px height=60px  alt="VS">
