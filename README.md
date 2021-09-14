@@ -15,12 +15,12 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 <img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/vs.png" width=50px height=50px  alt="VS">
 
 
-- 🔭 I’m currently working on Becoming a FULL-STACK dev  
-- 🌱 I’m currently learning C# and React.js 
-- 👯 I’m looking to collaborate on Open source projects and repositories 
-- 🤔 I’m looking for help with React and C# 
-- 💬 Ask me about Anything You Want 😄 
-- 📫 How to reach me: kordicharis18@gmail.com 
+- 🔭 My goal is to become a FULL-STACK developer !  
+- 🌱 I’m currently learning C# and React.js.
+- 👯 I’m looking to collaborate on Open source projects and repositories.
+- 🤔 I’m looking for help with React and C#.
+- 💬 Ask me about Anything You Want 😄.
+- 📫 How to reach me: [Email me !](mailto:kordicharis18@gmail.com)
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people 
 
 
