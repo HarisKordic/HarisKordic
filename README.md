@@ -12,15 +12,15 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=60px height=50px  alt="GIT">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width=50px height=50px  alt="Terminal">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=50px height=50px  alt="VS Code">
-<img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/vs.png" width=50px height=50px  alt="VS">
+<img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/vs.png" width=60px height=50px  alt="VS">
 
 
-- 🔭 My goal is to become a FULL-STACK developer !  
-- 🌱 I’m currently learning C# and React.js.
-- 👯 I’m looking to collaborate on Open source projects and repositories.
-- 🤔 I’m looking for help with React and C#.
-- 💬 Ask me about Anything You Want 😄.
-- 📫 How to reach me: [Email me !](mailto:kordicharis18@gmail.com)
+- 🔭 I’m currently working on Becoming a FULL-STACK dev  
+- 🌱 I’m currently learning C# and React.js 
+- 👯 I’m looking to collaborate on Open source projects and repositories 
+- 🤔 I’m looking for help with React and C# 
+- 💬 Ask me about Anything You Want 😄 
+- 📫 How to reach me: kordicharis18@gmail.com 
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people 
 
 
