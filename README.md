@@ -15,8 +15,6 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 <img src="https://github.com/HarisKordic/Movie-rating-app/blob/main/Design%20pictures/vs.png" width=70px height=50px  alt="VS">
 
 <hr>
-
-
 <br><br>
 - 🔭 My goal is to become a FULL-STACK developer.  
 - 🌱 I’m currently learning C# and React.js.
