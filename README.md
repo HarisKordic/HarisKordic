@@ -2,7 +2,7 @@
 I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second year of college at [FIT](https://fit.ba/)  (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! 
 
 <details>
-<summary>Check out some of my work down below 😄 . </summary>
+<summary>Check out some of my work down below 😄⬇️. </summary>
 <br>
 <ul>
 <li> <a href="https://github.com/HarisKordic/Movie-rating-app">Movie rating app</a></li>
