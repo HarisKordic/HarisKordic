@@ -1,4 +1,4 @@
-![View Counter](https://gpvc.arturio.dev/<tag>)
+![View Counter](https://github.com/HarisKordic)
 
 
 ### Hi there 👋, my name is Haris Kordic
