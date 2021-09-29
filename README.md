@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=HarisKordic)
+![](https://komarev.com/ghpvc/?username=HarisKordic&color=lightgrey)
+
 
 
 
