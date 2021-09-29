@@ -1,4 +1,5 @@
-![View Counter](https://gpvc.arturio.dev/TurnipGuy30)
+[![visits](https://github-visit-counter.herokuapp.com/{username}/{repo}/visits.svg)](#)
+
 
 
 ### Hi there 👋, my name is Haris Kordic
