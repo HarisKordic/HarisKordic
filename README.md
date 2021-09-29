@@ -43,7 +43,6 @@ Skills: C++ / Python / HTML/ CSS/ JavaScript/ React/ GIT/ Terminal/ VS Code / VS
 
 ![](https://komarev.com/ghpvc/?username=HarisKordic&color=lightgrey)
 
-
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisKordic)](https://github.com/anuraghazra/github-readme-stats)
