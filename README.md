@@ -34,8 +34,6 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 
 <br>
 
-<h4>
-
 - 🔭 My goal is to become a FULL-STACK developer.  
 - 🌱 I’m currently learning C# and React.js.
 - 👯 I’m looking to collaborate on Open source projects and repositories.
@@ -43,8 +41,6 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 - 💬 Ask me about Anything You Want 😄.
 - 📫 How to reach me: [Email me !](mailto:kordicharis18@gmail.com)
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people.
-
-</h4>
 
 <br>
 
