@@ -11,7 +11,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 </details>
 
 
-**Skills: C++ / C# /  Python / HTML / CSS / JavaScript / React / GIT / Terminal / VS Code / VS**
+**Skills: C++  /  C# /   Python /  HTML  / CSS  /  JavaScript  / React  / GIT  /  Terminal  /  VS Code   / VS**
 <br><br>
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/C%2B%2B.png" width=50px height=50px alt="C++">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/C%23.png" width=50px height=50px alt="C#">
