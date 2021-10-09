@@ -1,4 +1,6 @@
 <h4>
+
+
 ### Hi there 👋, my name is Haris Kordic
 I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second year of college at [FIT](https://fit.ba/)  (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! 
 
@@ -10,6 +12,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 <li> <a href="https://github.com/HarisKordic/My-Weather-App">Weather app</a></li>
 </ul>
 </details>
+
 
 </h4>
 
