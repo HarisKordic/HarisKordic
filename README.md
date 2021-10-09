@@ -20,7 +20,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 <br><br>
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/C%2B%2B.png" width=50px height=50px alt="C++">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/C%23.png" width=50px height=50px alt="C#">
-<img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/python.png" width=70px height=50px  alt="Python">
+<img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/python.png" width=50px height=50px  alt="Python">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=50px height=50px alt="HTML">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width=50px height=50px  alt="CSS">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width=50px height=50px alt="JavaScript">
