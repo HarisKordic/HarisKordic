@@ -25,7 +25,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/CSS3.png"  width=50px height=50px  alt="CSS">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/JS.png"  width=30px height=50px alt="JavaScript">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/React.png" width=70px height=50px alt="React">
-<img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/git.png"  width=70px height=50px  alt="GIT">
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  width=50px height=50px  alt="GIT">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/Terminal.png"  width=70px height=55px alt="Terminal">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width=50px height=50px alt="VS Code">
 <img src="https://github.com/HarisKordic/HarisKordic/blob/main/Pictures/vs.png"  width=70px height=50px alt="VS">
