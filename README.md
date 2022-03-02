@@ -8,6 +8,7 @@ I am a  20 yo software developer from Sarajevo, BiH. Currently I'm in my second 
 <summary>Check out some of my work down below 😄⬇️. </summary>
 <br>
 <ul>
+  <li><a href="https://github.com/HarisKordic/Students-Pictures-Project">Students Pictures Project</a></li>
 <li> <a href="https://github.com/HarisKordic/Movie-rating-app">Movie rating app</a></li>
 <li> <a href="https://github.com/HarisKordic/My-Weather-App">Weather app</a></li>
 </ul>
