@@ -1,7 +1,7 @@
 <h4>
 
 
-### Hi there 👋, my name is Haris Kordic
+<h2> ### Hi there 👋, my name is Haris Kordic </h2>
 I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third year of college at [FIT](https://fit.ba/)  (Faculty of Informational Technologies) in Mostar. In my free time I enjoy outdoor sports and activities. I strive to learn as much as I can in topics that  I'm interested in and I am working on becoming a FULL-STACK developer ! 
 
 <details open>
@@ -17,7 +17,7 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 
 </h4>
 
-<h2> **Skills:** </h2>
+<h2>Skills:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,cpp,cs,dotnet,git,github,visualstudio,vscode,azure,netlify,stackowerflow)](https://skillicons.dev)
 
