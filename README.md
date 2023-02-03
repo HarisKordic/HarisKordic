@@ -40,6 +40,4 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisKordic)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarisKordic&show_icons=true&count_private=true)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarisKordic&theme=blue-green)
