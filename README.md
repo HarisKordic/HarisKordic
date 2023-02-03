@@ -17,9 +17,9 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 
 </h4>
 
-**Skills:**
+<h2> **Skills:** </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,cpp,cs,dotnet,git,github,vs,vscode,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,cpp,cs,dotnet,git,github,visualstudio,vscode,azure,netlify,stackowerflow)](https://skillicons.dev)
 
 <hr>
 
