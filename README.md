@@ -38,4 +38,4 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 ![](https://komarev.com/ghpvc/?username=HarisKordic&color=lightgrey)
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisKordic&theme=blue-green)![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarisKordic&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisKordic&theme=blue-green)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarisKordic&theme=blue-green)
