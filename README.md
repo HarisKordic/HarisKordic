@@ -24,7 +24,6 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 <hr>
 
 <br>
-
 - 🔭 My goal is to become a FULL-STACK developer.  
 - 🌱 I’m currently learning C# and Angular.
 - 👯 I’m looking to collaborate on Open source projects and repositories.
