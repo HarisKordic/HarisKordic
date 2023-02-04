@@ -20,7 +20,6 @@ I am a  21 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 <h2>Languages and tools:</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,cs,dotnet,git,github,visualstudio,vscode,azure,netlify,stackowerflow)
-<hr>
 
 - 🔭 My goal is to become a FULL-STACK developer.  
 - 🌱 I’m currently learning C# and Angular.
