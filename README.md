@@ -1,4 +1,4 @@
-<h2>Hi there 👋, my name is Haris Kordic</h2>
+<h2 align="center">Hi there 👋, my name is Haris Kordic</h2>
 
 ![](https://komarev.com/ghpvc/?username=HarisKordic&color=lightgrey)
 
