@@ -19,14 +19,13 @@ I am a  22 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 
 <h2>Languages and tools:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,cs,dotnet,git,github,visualstudio,vscode,azure,netlify,stackowerflow)
+![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,cs,dotnet,git,github,visualstudio,vscode,azure,netlify)
 
 <hr>
 
 - 🔭 My goal is to become a FULL-STACK developer.  
-- 🌱 I’m currently learning C# and Angular.
+- 🌱 I’m currently learning .NET, Angular and React.
 - 👯 I’m looking to collaborate on Open source projects and repositories.
-- 🤔 I’m looking for help with Angular and C#.
 - 💬 Ask me about anything you want 😄.
 - 📫 How to reach me: [Email me !](mailto:kordicharis18@gmail.com)
 - ⚡ Fun fact: I played tennis for over 10 years, I love skiing and  I enjoy meeting new like-minded people.
