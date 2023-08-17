@@ -13,6 +13,7 @@ I am a  22 yo software developer from Sarajevo, BiH. Currently I'm in my third y
   <li><a href="https://github.com/HarisKordic/Students-Pictures-Project">Students Pictures Project</a></li>
 <li> <a href="https://github.com/HarisKordic/Movie-rating-app">Movie rating app</a></li>
 <li> <a href="https://github.com/HarisKordic/My-Weather-App">Weather app</a></li>
+<li> <a href="https://github.com/HarisKordic/MosaicPay-backend">MosaicPay Payment App</a> </li>
 </ul>
 </details>
 
