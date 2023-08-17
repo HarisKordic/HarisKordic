@@ -20,7 +20,7 @@ I am a  22 yo software developer from Sarajevo, BiH. Currently I'm in my third y
 
 <h2>Languages and tools:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,angular,next,nest,react,cs,dotnet,git,github,gitlab,visualstudio,vscode,azure,netlify)
+![My Skills](https://skillicons.dev/icons?i=js,ts,angular,next,nest,react,cs,dotnet,git,github,gitlab,visualstudio,vscode,azure,netlify,kafka)
 
 <hr>
 
